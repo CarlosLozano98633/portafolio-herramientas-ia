@@ -10,10 +10,10 @@
 
 | Nombre completo | Matrícula |
 |-----------------|-----------|
-| Carlos Eduardo Lozano Delgadillo | 198274-4 |
-| Jonathan Gael Arteaga Martinez | 198258-2  |
-| Oscar Iván Cruz Villa  | 198591-4 |
-|Jorge Santiago Juárez Oliva|198674-9|
+| Carlos Eduardo Lozano Delgadillo | 1|
+| Jonathan Gael Arteaga Martinez |2 |
+| Oscar Iván Cruz Villa  | 3 |
+|Jorge Santiago Juárez Oliva|4|
 
 ## 1. Caso de uso
    ## 🔀 Cómo funciona
@@ -60,3 +60,5 @@ $$
 ## 5. Evidencia
 
 ![Modelo en Spaces](IMAGENGIT.png)
+
+Cuenta de Github: @CarlosLozano98633

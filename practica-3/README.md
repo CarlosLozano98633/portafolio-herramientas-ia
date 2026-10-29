@@ -61,4 +61,5 @@ $$
 
 ![Modelo en Spaces](IMAGENGIT.png)
 
-Cuenta de Github: @CarlosLozano98633
+Cuenta de Github: ![@CarlosLozano98633](https://github.com/CarlosLozano98633/)
+

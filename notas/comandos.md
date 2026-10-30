@@ -4,7 +4,7 @@
 
 |Comando|Funcionamiento|
 
-|:...|:...|
+|:----|:---|
 
 |git remote add origin <dirección>|Conecta tu repositorio con uno de GitHub|
 

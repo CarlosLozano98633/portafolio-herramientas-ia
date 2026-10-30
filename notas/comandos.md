@@ -3,7 +3,9 @@
 
 
 |Comando|Funcionamiento|
-|...|...|
+
+|:...|:...|
+
 |git remote add origin <dirección>|Conecta tu repositorio con uno de GitHub|
 
 |git remote -v|Muestra a donde está conectado|

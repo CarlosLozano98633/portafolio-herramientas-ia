@@ -59,7 +59,7 @@ $$
 
 ## 5. Evidencia
 
-![Modelo en Spaces](IMAGENGIT.png)
+![Modelo en Spaces](captura-model-card.png)
 
 Cuenta de Github: ![@CarlosLozano98633](https://github.com/CarlosLozano98633/)
 

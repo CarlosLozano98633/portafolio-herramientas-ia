@@ -42,8 +42,8 @@ app = gr.Interface(
     fn=clasificar,
     inputs=gr.Image(type="pil", label="Sube una imagen"),
     outputs=gr.Label(num_top_classes=3, label="Predicciones"),
-    title="Clasificador de imágenes con MobileNetV2",
-    description="Sube una imagen para conocer las 3 clases más probables."
+    title="¿Qué hay en la foto?",
+    description="Esta aplicación usa el modelo google/mobilenet_v2_1.0_224."
 )
 
 if __name__ == "__main__":
